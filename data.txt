@@ -1,8 +1,10 @@
 {
     name: "ggotost",
-    age: 32
+    age: 32,
+    sex: "man"
 },
 {
     name: "yuchangquan",
-    age: 30
+    age: 30,
+    sex: "man"
 }
